@@ -31,7 +31,7 @@ export default function App() {
       <div className="color"></div>
       <div className="color"></div>
       <div className="color"></div>
-      <div className="color"></div>
+  
     </div>
   );
 }
