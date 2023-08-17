@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.color {
+  width: 100%;
+  background-color: darkslategrey;
+  height: 520px;
+}
