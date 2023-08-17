@@ -16,9 +16,9 @@ const Navbar = () => {
         <motion.h1
           style={{ y: yPos }}
           initial={{ y: "50vh" }}
-          transition={{ duration: 1 }} // Change this value to control the animation speed
+          transition={{ duration: 1 }}
         >
-          Your Navbar
+          Вот так!
         </motion.h1>
       </div>
     </nav>
