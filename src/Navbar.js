@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="navbar-center">
         <motion.h1
           style={{ y: yPos }}
-          initial={{ y: "50vh" }}
+          initial={{ y: "60vh" }}
           transition={{ duration: 1 }}
         >
           Вот так!
